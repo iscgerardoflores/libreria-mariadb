@@ -1,0 +1,18 @@
+# Dumps de bases de datos
+*.sql
+*.sql.gz
+*.dump
+*.bak
+
+# Configuración sensible
+.env
+.env.*.local
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
